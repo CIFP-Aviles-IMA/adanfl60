@@ -1,2 +1,2 @@
 # adanfl60
- robot
+En este proyecto realizamos la programacion de un brazo robotico pasando el codigo Arduino a codigo Python.Dentro  de este proyecto hay un docstring que te explica :Dentro del propio codigo se han elegido unos pines de salida y unos pines de entrada que estan elegidos previamente.Se utiliza una placa Jetson nano,en este caso  se utiliza una funcion def movemotor.Esta funcion permite al brazo robotico ejecutar los movimientos a traves de los valores del potenciometro y recibidos por los pines de entrada y destribuidos a los servomotores mediante las salidas. dependiendo del valor del robot tendra una posicion u otra.
