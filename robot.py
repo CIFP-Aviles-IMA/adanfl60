@@ -25,7 +25,7 @@ Bucle principal: El script ejecuta un bucle continuo que ajusta las posiciones d
 Configuración:
 MIN_PULSE_WIDTH: Ancho de pulso mínimo (650 microsegundos).
 MAX_PULSE_WIDTH: Ancho de pulso máximo (2350 microsegundos).
-FREQUENCY: Frecuencia de la señal PWM (50 Hz).
+FREQUENCY: Frecuencia de la señal PWM (50 Hz).     
 """
 #import wire 
 #import Adafruit_PWMServodriver
